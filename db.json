@@ -1,5 +1,4 @@
-var SearchData=
-[{"id":"2/20/2018","businessName":"Skalith","firstName":"Kanya","lastName":"Swendell","streetAddress":"042 Corry Circle","city":"Long Beach","state":"California","zipCode":"90810"},
+{"id":"2/20/2018","businessName":"Skalith","firstName":"Kanya","lastName":"Swendell","streetAddress":"042 Corry Circle","city":"Long Beach","state":"California","zipCode":"90810"},
 {"id":"9/1/2017","businessName":"Bubblemix","firstName":"Desiree","lastName":"Petrishchev","streetAddress":"9 Maywood Plaza","city":"Lakeland","state":"Florida","zipCode":"33811"},
 {"id":"4/9/2018","businessName":"Cogidoo","firstName":"Hana","lastName":"Finlan","streetAddress":"2908 Shoshone Circle","city":"Newark","state":"Delaware","zipCode":"19714"},
 {"id":"7/18/2017","businessName":"Youbridge","firstName":"Gabi","lastName":"Look","streetAddress":"00329 Barby Alley","city":"Harrisburg","state":"Pennsylvania","zipCode":"17140"},
@@ -98,6 +97,4 @@ var SearchData=
 {"id":"7/25/2018","businessName":"Tazzy","firstName":"Osborne","lastName":"Foxworthy","streetAddress":"5962 Dryden Hill","city":"Minneapolis","state":"Minnesota","zipCode":"55428"},
 {"id":"10/28/2018","businessName":"Zoomdog","firstName":"Eugenie","lastName":"Athelstan","streetAddress":"94 Cardinal Hill","city":"New York City","state":"New York","zipCode":"10004"},
 {"id":"7/14/2018","businessName":"DabZ","firstName":"Kilian","lastName":"Danilchik","streetAddress":"93 Reindahl Drive","city":"Las Vegas","state":"Nevada","zipCode":"89130"},
-{"id":"8/29/2017","businessName":"Zooxo","firstName":"Hastie","lastName":"Norssister","streetAddress":"6 Transport Road","city":"Scranton","state":"Pennsylvania","zipCode":"18505"}]
-
-export default searchData;
+{"id":"8/29/2017","businessName":"Zooxo","firstName":"Hastie","lastName":"Norssister","streetAddress":"6 Transport Road","city":"Scranton","state":"Pennsylvania","zipCode":"18505"}
