@@ -1,4 +1,4 @@
-{"id":"2/20/2018","businessName":"Skalith","firstName":"Kanya","lastName":"Swendell","streetAddress":"042 Corry Circle","city":"Long Beach","state":"California","zipCode":"90810"},
+{{"id":"2/20/2018","businessName":"Skalith","firstName":"Kanya","lastName":"Swendell","streetAddress":"042 Corry Circle","city":"Long Beach","state":"California","zipCode":"90810"},
 {"id":"9/1/2017","businessName":"Bubblemix","firstName":"Desiree","lastName":"Petrishchev","streetAddress":"9 Maywood Plaza","city":"Lakeland","state":"Florida","zipCode":"33811"},
 {"id":"4/9/2018","businessName":"Cogidoo","firstName":"Hana","lastName":"Finlan","streetAddress":"2908 Shoshone Circle","city":"Newark","state":"Delaware","zipCode":"19714"},
 {"id":"7/18/2017","businessName":"Youbridge","firstName":"Gabi","lastName":"Look","streetAddress":"00329 Barby Alley","city":"Harrisburg","state":"Pennsylvania","zipCode":"17140"},
@@ -48,3 +48,4 @@
 {"id":"8/1/2017","businessName":"Mycat","firstName":"Corena","lastName":"Geydon","streetAddress":"92 Corben Center","city":"Bellevue","state":"Washington","zipCode":"98008"},
 {"id":"8/23/2018","businessName":"Zoombox","firstName":"Cathryn","lastName":"Deniseau","streetAddress":"8 Rieder Trail","city":"Erie","state":"Pennsylvania","zipCode":"16550"},
 {"id":"2/25/2017","businessName":"Kimia","firstName":"Marja","lastName":"Plet","streetAddress":"880 Sage Road","city":"Tacoma","state":"Washington","zipCode":"98481"},
+}
