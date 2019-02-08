@@ -1,15 +1,23 @@
 [  
-  {"firstName":"Kanya",
-   "lastName":"Swendell",
-   "streetAddress":"042 Corry Circle",
-   "city":"Long Beach",
-   "state":"California",},
-  {"firstName":"Desiree","lastName":"Petrishchev","streetAddress":"9 Maywood Plaza","city":"Lakeland","state":"Florida"},
-  {"firstName":"Hana","lastName":"Finlan","streetAddress":"2908 Shoshone Circle","city":"Newark","state":"Delaware"},
-  {"firstName":"Gabi","lastName":"Look","streetAddress":"00329 Barby Alley","city":"Harrisburg","state":"Pennsylvania","zipCode":"17140"},
-  {"firstName":"Chandra","lastName":"Cottee","streetAddress":"98022 Fairfield Center","city":"Amarillo","state":"Texas"},
-  {"firstName":"Laureen","lastName":"Nott","streetAddress":"27 Forster Circle","city":"Aiken","state":"South Carolina"},
-  {"firstName":"Alfred","lastName":"Lardnar","streetAddress":"54291 Caliangt Pass","city":"Decatur","state":"Georgia"},
-  {"firstName":"Cull","lastName":"Emanuele","streetAddress":"9 Delladonna Road","city":"San Antonio","state":"Texas"},
-  {"firstName":"Svend","lastName":"Gollard","streetAddress":"287 Lyons Court","city":"Fairbanks","state":"Alaska",}
+    {
+        "firstName":"Kanya",
+        "lastName":"Swendell",
+        "streetAddress":"042 Corry Circle",
+        "city":"Long Beach",
+        "state":"California"
+    },
+    {
+        "firstName":"Desiree",
+        "lastName":"Petrishchev",
+        "streetAddress":"9 Maywood Plaza",
+        "city":"Lakeland",
+        "state":"Florida"
+    },
+    {"firstName":"Hana","lastName":"Finlan","streetAddress":"2908 Shoshone Circle","city":"Newark","state":"Delaware"},
+    {"firstName":"Gabi","lastName":"Look","streetAddress":"00329 Barby Alley","city":"Harrisburg","state":"Pennsylvania","zipCode":"17140"},
+    {"firstName":"Chandra","lastName":"Cottee","streetAddress":"98022 Fairfield Center","city":"Amarillo","state":"Texas"},
+    {"firstName":"Laureen","lastName":"Nott","streetAddress":"27 Forster Circle","city":"Aiken","state":"South Carolina"},
+    {"firstName":"Alfred","lastName":"Lardnar","streetAddress":"54291 Caliangt Pass","city":"Decatur","state":"Georgia"},
+    {"firstName":"Cull","lastName":"Emanuele","streetAddress":"9 Delladonna Road","city":"San Antonio","state":"Texas"},
+    {"firstName":"Svend","lastName":"Gollard","streetAddress":"287 Lyons Court","city":"Fairbanks","state":"Alaska"}
 ]
